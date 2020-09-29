@@ -1,0 +1,5 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('assets/vendors/styles/core.css');
+@import url('assets/vendors/styles/icon-font.min.css');
+@import url('assets/src/plugins/sweetalert2/sweetalert2.css');
+@import url('assets/vendors/styles/style.css');
